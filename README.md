@@ -4,13 +4,14 @@ Making useful things for curious people.
 
 I'm a Principal engineer at Microsoft, where I work on web performance, telemetry and security for Microsoft 365. Outside work I build small open-source tools with clear interfaces, mostly under [**@cascadiacollections**](https://github.com/cascadiacollections), my independent studio in the Pacific Northwest.
 
-#### Things I've built
+#### What I'm working on
 
-- **[lazydeck](https://github.com/KevinTCoughlin/lazydeck)**: a lazydocker-style TUI for managing fleets of Steam Deck devkits (Go)
-- **[godot-xdg-portals](https://github.com/KevinTCoughlin/godot-xdg-portals)**: Linux desktop portals for Godot games, including GameMode, idle inhibition and notifications, and it works in Flatpak
-- **[shoutkit](https://github.com/cascadiacollections/shoutkit)**: internet radio for iOS with no accounts, no tracking and no API keys (Swift)
-- **[bauhaus](https://github.com/cascadiacollections/bauhaus)**: daily art made by style transfer from CC0 museum collections, running on Cloudflare Workers
-- **[mc-dad-server](https://github.com/KevinTCoughlin/mc-dad-server)**: a Minecraft server in 60 seconds, for busy dads
+- **ShoutKit**: free, open-source internet radio with no accounts, no tracking and no API keys. [iOS](https://github.com/cascadiacollections/shoutkit) (Swift; the app is called Holmdel) · [Android](https://github.com/cascadiacollections/shoutkit-android) (Kotlin)
+- **[lazydeck](https://github.com/KevinTCoughlin/lazydeck)**: a lazydocker-style terminal UI for managing a fleet of Steam Deck and Steam Machine devkits (Go)
+- **[godot-xdg-portals](https://github.com/KevinTCoughlin/godot-xdg-portals)**: Linux desktop portals for Godot games (GameMode, idle inhibition, power-saver, URI opening, notifications), and it works in Flatpak
+- **[godot-device-power](https://github.com/KevinTCoughlin/godot-device-power)**: a Godot 4 addon that sets a frame cap and display refresh rate from power source, battery saver, thermal status and Android game mode
+
+Also: [bauhaus](https://github.com/cascadiacollections/bauhaus) (daily style-transfer art from CC0 museum collections) · [mc-dad-server](https://github.com/KevinTCoughlin/mc-dad-server) (a Minecraft server in 60 seconds)
 
 #### Contributing to
 
